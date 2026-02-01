@@ -1,0 +1,30 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Smurf Detect | Blockchain AML Intelligence</title>
+
+  <meta
+    name="description"
+    content="Smurf Detect is an advanced blockchain forensics platform that detects smurfing and money laundering patterns in DeFi using temporal graph intelligence."
+  />
+  <meta name="author" content="Nakshatra Vinoth" />
+
+  <!-- Open Graph (WhatsApp, Discord, LinkedIn) -->
+  <meta property="og:title" content="Smurf Detect | Blockchain AML Intelligence" />
+  <meta
+    property="og:description"
+    content="Detect smurfing, layering, and coordinated laundering in DeFi using temporal graph-based intelligence."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="/og.png" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Smurf Detect | Blockchain AML Intelligence" />
+  <meta
+    name="twitter:description"
+    content="AI-powered detection of smurfing and money laundering in blockchain transaction graphs."
+  />
+  <meta name="twitter:image" content="/og.png" />
+</head>
